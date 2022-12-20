@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #333;
+    color: #ccc;
+    line-height: 1.6;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+header {
+    text-align: center;
+    padding: 0 30px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.container h3 {
+    text-align: center;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    margin-bottom: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(225, 93, 93);
+    font-weight: bold;
+}
+
+.la {
+    text-align: center;
+}
